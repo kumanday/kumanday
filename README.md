@@ -35,7 +35,3 @@ Applied-AI researcher • OSS maintainer • Founder, Kumanday Intelligence • 
 - X: <https://x.com/archimagos>
 - Trilogy AI Center of Excellence Website: <https://ai-coe.trilogy.com/>
 - Technical Blog: <https://trilogyai.substack.com/>
-
-<!--
-[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumanday&show_icons=true)](https://github.com/kumanday/github-readme-stats)
--->
