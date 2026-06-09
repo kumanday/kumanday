@@ -1,6 +1,6 @@
 ## Leonardo Gonzalez
 
-Applied AI engineer, medical scientist, OSS maintainer, founder of [Kumanday Intelligence](https://kumandayintelligence.com/), and VP, AI Center of Excellence at [Trilogy](https://ai-coe.trilogy.com/).
+Applied AI engineer, OSS maintainer, founder of [Kumanday Intelligence](https://kumandayintelligence.com/), and VP of [Trilogy AI Center of Excellence](https://ai-coe.trilogy.com/).
 
 I build applied AI systems at the intersection of agentic engineering, work orchestration, evaluation, multimodal generation, and adaptive education. My current work focuses on turning frontier AI capabilities into practical systems that help engineers, researchers, creators, and learners do better work.
 
