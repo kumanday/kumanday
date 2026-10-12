@@ -15,17 +15,25 @@ I build applied AI systems at the intersection of agentic engineering, work orch
 - Multimodal media generation pipelines
 - AI-powered education and technical training for Latin America
 
+<!-- portfolio:start (managed region; generated preview, review before editing) -->
+### Featured development projects
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| Engineering Behavior Observatory | Captures AI engineering-agent trajectories and workspace outcomes for evidence-grounded evaluation and comparison. | [Repository](https://github.com/trilogy-group/engineering-behavior-observatory) · [Project site](https://trilogy-group.github.io/engineering-behavior-observatory/) |
+| OpenSymphony | Coordinates coding agents through Linear issues, isolated workspaces, dependency scheduling and human review. | [Repository](https://github.com/kumanday/OpenSymphony) · [Website](https://opensymphony.dev/) |
+| media-tooling | Turns source media into transcripts, subtitles, planning artifacts, rough cuts, narration and verified renders. | [Repository](https://github.com/kumanday/media-tooling) |
+| TTV Pipeline | Plans and generates video segments through keyframe and chaining workflows, with approved generation records for editorial handoff. | [Repository](https://github.com/trilogy-group/ttv-pipeline) |
+<!-- portfolio:end -->
+
 ### Featured open-source projects
 
 | Project | Focus | Links |
 |---------|-------|-------|
-| **OpenSymphony** | Work orchestration for agentic engineering: work units, memory capsules, repo context, human review loops, and bidirectional integration with agent harnesses. | <https://opensymphony.dev> • <https://github.com/kumanday/OpenSymphony> |
 | **cli_engineer** | Rust-based experimental agent harness for autonomous coding, code review, repository analysis, and multi-provider LLM workflows. | <https://cli.engineer> • <https://github.com/trilogy-group/cli_engineer> |
 | **Nexus Agents** | Multi-agent deep research system with role-based coordination, tool use, human-in-the-loop review, and persistent knowledge base integration. | <https://github.com/trilogy-group/nexus-agents> |
 | **G-Eval / Opik Suite** | Reference-free LLM-as-judge evaluation framework with structured metrics and repeatable experiment workflows. | <https://github.com/trilogy-group/ai-coe-opik> |
 | **GraphRAG POC** | Graph-based retrieval-augmented generation prototype using dynamic knowledge graphs and hybrid retrieval. | <https://github.com/trilogy-group/ai-coe-graphrag-poc> |
-| **TTV Pipeline** | Text-to-video generation pipeline for segment planning, keyframes, chaining modes, and cloud/local generation backends. | <https://github.com/trilogy-group/ttv-pipeline> |
-| **media-tooling** | Utilities for automated image, video, and audio generation workflows, including provider adapters, batch generation, prompt templates, and asset pipelines. | <https://github.com/kumanday/media-tooling> |
 
 ### Areas I like building in
 
